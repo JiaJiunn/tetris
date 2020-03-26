@@ -7,6 +7,6 @@ make play
 
 Here are some screenshots of the game:
 <p align="center">
-  <img src=“screenshots/screenshot_1.png">
-  <img src="screenshots/screenshot_2.png">
+  <img src="screenshots/screenshot_1.png" height="400">&nbsp;&nbsp;&nbsp;<img src="screenshots/screenshot_2.png"
+    height="400">
 </p>
